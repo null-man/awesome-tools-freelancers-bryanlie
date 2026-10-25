@@ -24,6 +24,9 @@ Collect a list of tools for freelancers in AI, Data Science, Front end developme
 |-------------|------------------------|-----------------------|
 | Heygen      | Heygen specializes in generating videos using AI technology, allowing users to create engaging video content efficiently without needing extensive video editing skills or software knowledge. | [Heygen.com](https://www.heygen.com/) |
 | GrokVideo Studio | Independent text/image-to-video app using the Grok Imagine API (not affiliated with xAI or X); free trial credits. | [GrokVideo Studio](https://grokvideogenerator.dev/) |
+| Alors On Danse Video Maker | Independent text/image-to-video app using the Grok Imagine API (not affiliated with xAI or X); Paid. | [Alors On Danse Video Maker](https://alorsondansevideo.com) |
+| Bad Times AI | Independent text/image-to-video app using the Grok Imagine API (not affiliated with xAI or X); Paid. | [Bad Times AI](https://badtimesai.dev) |
+| I Found You in the Crowd AI | Independent text/image-to-video app using the Grok Imagine API (not affiliated with xAI or X); Paid. | [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) |
 
 ## Audio TTS Tools
 
