@@ -12,8 +12,10 @@ Collect a list of tools for freelancers in AI, Data Science, Front end developme
 | **Website** | **Short Introduction** | **Link/GitHub Repo** |
 |-------------|------------------------|-----------------------|
 | Ideogram    | Ideogram focuses on creating and sharing visual content, allowing users to generate unique designs and illustrations through AI tools. | [Ideogram](https://ideogram.ai) |
+| PromptImage | Free AI image & video studio with a prompt library; signup credits, no card required. | [PromptImage](https://promptimage.cloud/) |
 | Magnific    | Magnific.ai offers AI-powered image upscaling and enhancement, allowing users to transform images into high-resolution versions with added details, suitable for photographers and digital artists. | [Magnific.ai](https://magnific.ai/) |
 | Clipdrop     | Clipdrop offers tools for capturing and editing images using augmented reality technology, making it easier for users to create high-quality visuals quickly.  | [Clipdrop.co](https://clipdrop.co/)  |
+| TeslaWraps | Free browser Tesla Paint Shop wrap editor with model templates, 3D preview and PNG export; core editing needs no account. | [TeslaWraps](https://teslawraps.design/) |
 
 
 ## Video Generation Tools
@@ -21,6 +23,7 @@ Collect a list of tools for freelancers in AI, Data Science, Front end developme
 | **Website** | **Short Introduction** | **Link/GitHub Repo** |
 |-------------|------------------------|-----------------------|
 | Heygen      | Heygen specializes in generating videos using AI technology, allowing users to create engaging video content efficiently without needing extensive video editing skills or software knowledge. | [Heygen.com](https://www.heygen.com/) |
+| GrokVideo Studio | Independent text/image-to-video app using the Grok Imagine API (not affiliated with xAI or X); free trial credits. | [GrokVideo Studio](https://grokvideogenerator.dev/) |
 
 ## Audio TTS Tools
 
