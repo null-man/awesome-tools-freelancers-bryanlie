@@ -27,6 +27,9 @@ Collect a list of tools for freelancers in AI, Data Science, Front end developme
 | Alors On Danse Video Maker | Independent text/image-to-video app using the Grok Imagine API (not affiliated with xAI or X); Paid. | [Alors On Danse Video Maker](https://alorsondansevideo.com) |
 | Bad Times AI | Independent text/image-to-video app using the Grok Imagine API (not affiliated with xAI or X); Paid. | [Bad Times AI](https://badtimesai.dev) |
 | I Found You in the Crowd AI | Independent text/image-to-video app using the Grok Imagine API (not affiliated with xAI or X); Paid. | [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) |
+| KDA Firestarter AI Dance | Independent text/image-to-video app using the Grok Imagine API (not affiliated with xAI or X); Paid. | [KDA Firestarter AI Dance](https://kdafirestarterai.dev) |
+| A2O LITE NEON AI Dance | Independent text/image-to-video app using the Grok Imagine API (not affiliated with xAI or X); Paid. | [A2O LITE NEON AI Dance](https://a2oliteai.org) |
+| dime dime baby ai | Independent text/image-to-video app using the Grok Imagine API (not affiliated with xAI or X); Paid. | [dime dime baby ai](https://dimedimebabyai.dev) |
 
 ## Audio TTS Tools
 
